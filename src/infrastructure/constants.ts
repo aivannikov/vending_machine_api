@@ -1,0 +1,7 @@
+const USER_ROLES = {
+    BUYER: 'buyer',
+    SELLER: 'seller'
+}
+const USERNAME_MIN_LENGTH = 5;
+const PASSWORD_MIN_LENGTH = 7;
+export { USER_ROLES, USERNAME_MIN_LENGTH, PASSWORD_MIN_LENGTH }

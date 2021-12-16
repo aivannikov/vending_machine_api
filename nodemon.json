@@ -1,0 +1,7 @@
+{
+    "verbose": true,
+    "watch": ["src/", "tests/"],
+    "ext": "js, ts",
+    "delay": 2500,
+    "exec": "npm run start"
+}
